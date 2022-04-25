@@ -5,8 +5,8 @@
 
 # Dependencies
 
-## - qb-core          = ![alt text](https://github.com/qbcore-framework/qb-core)
-## - qb-menu          = ![alt text](https://github.com/qbcore-framework/qb-menu) 
-## - qb-radialmenu    = ![alt text](https://github.com/qbcore-framework/qb-radialmenu) 
+## -  ![qb-core](https://github.com/qbcore-framework/qb-core)
+## -  ![qb-menu](https://github.com/qbcore-framework/qb-menu) 
+## -  ![qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu) 
 
 
